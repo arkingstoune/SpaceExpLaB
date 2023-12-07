@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "uqv+BoGMPj9M+dzx9m8W8ltQejkEub+r0sYRNX7jlMGXiFwkWfP6z9T1HrnzeLPszz2dLKeadf5j3DMMKIuDVQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\arkin\\Desktop\\SpaceExplorer_Laboratories\\src\\SpaceExPl\\SpaceExPl.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\arkin\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.8\\microsoft.aspnetcore.openapi.7.0.8.nupkg.sha512",
+    "C:\\Users\\arkin\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\arkin\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\arkin\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\arkin\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\arkin\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\arkin\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

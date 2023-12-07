@@ -1,0 +1,12 @@
+C:\Users\arkin\Desktop\SpaceExplorer_Laboratories\src\SpaceExDl\bin\Debug\net7.0\SpaceExDl.deps.json
+C:\Users\arkin\Desktop\SpaceExplorer_Laboratories\src\SpaceExDl\bin\Debug\net7.0\SpaceExDl.dll
+C:\Users\arkin\Desktop\SpaceExplorer_Laboratories\src\SpaceExDl\bin\Debug\net7.0\SpaceExDl.pdb
+C:\Users\arkin\Desktop\SpaceExplorer_Laboratories\src\SpaceExDl\obj\Debug\net7.0\SpaceExDl.csproj.AssemblyReference.cache
+C:\Users\arkin\Desktop\SpaceExplorer_Laboratories\src\SpaceExDl\obj\Debug\net7.0\SpaceExDl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arkin\Desktop\SpaceExplorer_Laboratories\src\SpaceExDl\obj\Debug\net7.0\SpaceExDl.AssemblyInfoInputs.cache
+C:\Users\arkin\Desktop\SpaceExplorer_Laboratories\src\SpaceExDl\obj\Debug\net7.0\SpaceExDl.AssemblyInfo.cs
+C:\Users\arkin\Desktop\SpaceExplorer_Laboratories\src\SpaceExDl\obj\Debug\net7.0\SpaceExDl.csproj.CoreCompileInputs.cache
+C:\Users\arkin\Desktop\SpaceExplorer_Laboratories\src\SpaceExDl\obj\Debug\net7.0\SpaceExDl.dll
+C:\Users\arkin\Desktop\SpaceExplorer_Laboratories\src\SpaceExDl\obj\Debug\net7.0\refint\SpaceExDl.dll
+C:\Users\arkin\Desktop\SpaceExplorer_Laboratories\src\SpaceExDl\obj\Debug\net7.0\SpaceExDl.pdb
+C:\Users\arkin\Desktop\SpaceExplorer_Laboratories\src\SpaceExDl\obj\Debug\net7.0\ref\SpaceExDl.dll
