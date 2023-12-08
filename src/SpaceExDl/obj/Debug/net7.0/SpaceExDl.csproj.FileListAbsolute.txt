@@ -10,3 +10,5 @@ C:\Users\arkin\Desktop\SpaceExplorer_Laboratories\src\SpaceExDl\obj\Debug\net7.0
 C:\Users\arkin\Desktop\SpaceExplorer_Laboratories\src\SpaceExDl\obj\Debug\net7.0\refint\SpaceExDl.dll
 C:\Users\arkin\Desktop\SpaceExplorer_Laboratories\src\SpaceExDl\obj\Debug\net7.0\SpaceExDl.pdb
 C:\Users\arkin\Desktop\SpaceExplorer_Laboratories\src\SpaceExDl\obj\Debug\net7.0\ref\SpaceExDl.dll
+C:\Users\arkin\Desktop\SpaceExplorer_Laboratories\src\SpaceExDl\bin\Debug\net7.0\SpaceExDl.runtimeconfig.json
+C:\Users\arkin\Desktop\SpaceExplorer_Laboratories\src\SpaceExDl\obj\Debug\net7.0\SpaceExDl.genruntimeconfig.cache

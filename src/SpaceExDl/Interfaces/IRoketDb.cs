@@ -1,8 +1,10 @@
 namespace Space.Data;
 
-interface IRoket
+interface IRoketDb
 {
-     ValueTask<bool> CreateRoket (Roket roket, CancellationToken token = default);
-     ValueTask<int> CountRoket(CancellationToken token);
-     ValueTask<bool> UpdateRoketMission(long roketid, string mission, CancellationToken token);
+     ValueTask<bool> CreateRoketAsync (Roket roket, CancellationToken token = default);
+     ValueTask<int> CountRoketAsync(CancellationToken token);
+     ValueTask<bool> UpdateRoketMissionAsync(long roketid, string mission, CancellationToken token);
+     ValueTask<Roket> ShowdataAsync (long roketid, CancellationToken token = default);
+ 
 }

@@ -2,6 +2,8 @@ namespace Space.Data;
 
 interface IEmployeeDb
 {
-     ValueTask<bool> CreateEmployee (Employee employee, CancellationToken token = default);
-     ValueTask<int> CountEmployee(CancellationToken token);
+     ValueTask<bool> CreateEmployeeAsync (Employee employee, CancellationToken token = default);
+     ValueTask<int> CountEmployeeAsync(CancellationToken token);
+     ValueTask<Employee> ShowdataAsync (long orderid, CancellationToken token = default);
+ 
 }
