@@ -10,3 +10,6 @@ C:\Users\arkin\Desktop\SpaceExplorer_Laboratories\src\SpaceExBl\obj\Debug\net7.0
 C:\Users\arkin\Desktop\SpaceExplorer_Laboratories\src\SpaceExBl\obj\Debug\net7.0\refint\SpaceExBl.dll
 C:\Users\arkin\Desktop\SpaceExplorer_Laboratories\src\SpaceExBl\obj\Debug\net7.0\SpaceExBl.pdb
 C:\Users\arkin\Desktop\SpaceExplorer_Laboratories\src\SpaceExBl\obj\Debug\net7.0\ref\SpaceExBl.dll
+C:\Users\arkin\Desktop\SpaceExplorer_Laboratories\src\SpaceExBl\bin\Debug\net7.0\SpaceExDl.dll
+C:\Users\arkin\Desktop\SpaceExplorer_Laboratories\src\SpaceExBl\bin\Debug\net7.0\SpaceExDl.pdb
+C:\Users\arkin\Desktop\SpaceExplorer_Laboratories\src\SpaceExBl\obj\Debug\net7.0\SpaceExBl.csproj.CopyComplete

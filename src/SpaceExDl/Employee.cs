@@ -1,6 +1,7 @@
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 using Microsoft.EntityFrameworkCore;
+using Space.Data;
 namespace Space.Data;
 [Table("employee")]
 public sealed class Employee
@@ -15,6 +16,7 @@ public sealed class Employee
     public Roket roket {get; set;}
     
 }
+
 // public enum Gender
 // {
 //     male = 1,

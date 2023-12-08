@@ -12,6 +12,8 @@ public sealed class Roket
     public string Mission {get; set;}
     public ICollection<Employee> employees {get; set;}
 }
+ 
+
 // public enum Type
 // {
 //     military  = 1,

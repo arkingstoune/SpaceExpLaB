@@ -1,6 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 namespace Space.Data;
 
+
 public sealed class EfCoreEmployeeRepository : IEmployeeDb
 {
     private readonly SpaceDbContext _db;
